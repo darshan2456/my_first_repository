@@ -7,3 +7,6 @@ i kinda understand git now
 this is really fun
 
 i think its too late and i should go to sleep
+
+
+okkk goodnight jaishrikrishna
