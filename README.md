@@ -5,6 +5,3 @@ lets have fun
 i kinda understand git now
 
 this is really fun
-
-
-
