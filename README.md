@@ -10,10 +10,3 @@ i think its too late and i should go to sleep
 
 
 okkk goodnight jaishrikrishna
-
-
-
-this is a change only visible in new_branch
-
-
-another change in new_branch ..
